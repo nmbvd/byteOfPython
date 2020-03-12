@@ -1,0 +1,4 @@
+import sympy
+help(sympy)
+
+
